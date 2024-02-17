@@ -1,0 +1,26 @@
+
+
+
+.img3{
+    margin: auto;
+    margin-top: 20px;
+    background-color: pink;
+    width: 500px;
+    height: 500px;
+}
+
+.horizontal img{
+    width: 50px; /* Hace que todas las imágenes tengan el mismo ancho */
+    height: 50px; /* Mantiene la proporción de aspecto de las imágenes */
+    }
+
+    
+.vertical img{
+padding-top: 10px;
+display: flex;
+align-items: center;
+width: 50px;
+height: 50px;
+
+}
+

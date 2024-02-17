@@ -1,0 +1,14 @@
+/* Selector de elemento */
+div {
+    color: blue;
+}
+
+/* Selector de clase */
+.miClase {
+    color: red;
+}
+
+/* Selector de identificador */
+#miDiv {
+    color: green;
+}

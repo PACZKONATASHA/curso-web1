@@ -1,0 +1,13 @@
+.contenedor{
+    margin: auto;
+    margin-top: 20px;
+    background-color: rgb(99, 94, 94);
+    width: 700px;
+    height: 500px;
+}
+
+
+
+.tienda{
+    color: blue;
+}

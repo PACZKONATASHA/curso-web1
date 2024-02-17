@@ -1,0 +1,14 @@
+.contenedor{
+    margin: auto;
+    margin-top: 20px;
+    background-color: pink;
+    width: 500px;
+    height: 500px;
+}
+.img{
+    
+    position: sticky;
+    float: right;
+    height: 50%;
+     width: 50%;
+}
